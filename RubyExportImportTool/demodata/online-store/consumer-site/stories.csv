@@ -1,0 +1,12 @@
+Type,Name,Parent,Owner,Status,Blocked,Release,Iteration,PlanEstimate,TaskEstimate,TaskToDo,TaskActuals,Rank,Package,Description,Notes
+Story,Epic: User Management,,paul@acme.com,Defined,,,,,,,,1,Account,"All users should be able to easily login, logout, and safely store their relevant information with us",
+Story,Epic: Login/Logoff,Epic: User Management,paul@acme.com,Defined,,,,,,,,1,Account,"In order to provide basic system access, all users should be able to login/logout of the system",
+Story,Epic: Personal Information,Epic: User Management,paul@acme.com,Defined,,,,,,,,1,Account,All users should be able to store their personal information with the knowledge that all data is encrypted and safe,
+Story,Epic: Shipping,,paul@acme.com,Defined,,,,,,,,2,Shipping,Provide the users a wide range of shipping options similar to those of other e-commerce sites,
+Story,Epic: Basic Shipping,Epic: Shipping,paul@acme.com,Defined,,,,,,,,2,Shipping,Allow customers to choose only ground shipping for all products,
+Story,Epic: Priority Shipping,Epic: Shipping,paul@acme.com,Defined,,,,,,,,2,Shipping,Allow customers to choose overnight and expedited shipping options,
+Story,Epic: Multi-Order Shipping,Epic: Shipping,paul@acme.com,Defined,,,,,,,,2,Shipping,"To provide services beyond the normal e-commerce site, allow shipping of a single order to multiple sites",
+Story,Epic: Shopping,,paul@acme.com,Defined,,,,,,,,3,Shopping,Provide basic navigation and shopping cart functionality to allow users to mark items to purchase,
+Story,Epic: Payment Methods,,paul@acme.com,Defined,,,,,,,,4,Shopping,Support a broad range of payment methods consistent with other e-commerce sites - including gift certificates,
+Story,Epic: Order Management,,paul@acme.com,Defined,,,,,,,,5,Shopping,"In case of minor mistakes by customers, allow them to modify their orders",
+Story,Epic: Performance and Scalability,,paul@acme.com,Defined,,,,,,,,6,,Provide an infrastructure that allows the business to scale and expand while providing a fast and reliable customer experience,

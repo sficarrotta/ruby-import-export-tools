@@ -1,0 +1,8 @@
+Type,Name,WorkProduct,Owner,Priority,Package,Risk,Description,Notes,Objective,PreConditions,PostConditions,ValidationInput,ValidationExpectedResult,StepInput,StepExpectedResult,Build,DateRun,Verdict,Duration,TestFolder
+TestCase,TestCase1,,,Important,,Low,,,,,,,,,,,,,,A//B//C
+TestCase,TestCase2,,,Important,,Low,,,,,,,,,,,,,,A//B//C//C1
+TestCase,TestCase3,,,Important,,Low,,,,,,,,,,,,,,A//B
+TestCase,TestCase4,,,Important,,Low,,,,,,,,,,,,,,A//B//D//
+TestCase,TestCase5,,,Important,,Low,,,,,,,,,,,,,,A//B//H//
+TestCase,TestCase6,,,Important,,Low,,,,,,,,,,,,,,A
+TestCase,TestCase7,,,Important,,Low,,,,,,,,,,,,,,A//X

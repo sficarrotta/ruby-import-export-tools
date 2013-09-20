@@ -1,0 +1,4 @@
+Type,Name,Owner,Status,Blocked,Release,Iteration,PlanEstimate,TaskEstimate,TaskToDo,TaskActuals,Rank,Package,Description,Notes,Tags
+Story,Story 1,,Defined,FALSE,Release 1,Iteration 1,5,,,,1,,descr1,notes1,tag1|tag2|tag3
+Task,Task 1,,Completed,TRUE,,,,3,0,0,2,,,,
+Task,Task 2,,Completed,FALSE,,,,3,0,0,,,,,

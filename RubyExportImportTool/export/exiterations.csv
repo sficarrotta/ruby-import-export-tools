@@ -1,0 +1,31 @@
+Name,Theme,StartDate(YYYY-MM-DD),EndDate(YYYY-MM-DD),Resources,State
+Iteration 4 (R1),<ul><li>Hardening for ML</li></ul>,2009-06-18,2009-07-01,10.0,Accepted
+Iteration 3 (R1),<ul><li>Be able to Ship an Order</li><li>Provide Credit Card support</li></ul>,2009-06-04,2009-06-17,10.0,Accepted
+Iteration 2 (R1),<ul><li>Shop for Items</li><li>Start Shipping functionality</li><li>Purchase your Items - Part 1</li></ul>,2009-05-21,2009-06-03,10.0,Accepted
+Iteration 1 (R1),<ul><li>Be able to Log-in and Log-off</li><li>Security implemented</li></ul>,2009-05-07,2009-05-20,10.0,Accepted
+Iteration 5 (R2),<ul><li>Internationalize</li></ul>,2009-07-02,2009-07-15,12.0,Accepted
+Iteration 6 (R2),<ul><li>Be able to complete the purchase</li><li>Be able to search for an item</li><li>Spikes</li></ul>,2009-07-16,2009-07-29,12.0,Committed
+Iteration 7 (R2),<ul><li>Hardening for OM</li></ul>,2009-07-30,2009-08-12,12.0,Planning
+Iteration 8 (R3),<ul><li>Similar Products</li></ul>,2009-08-13,2009-08-26,12.0,Planning
+Iteration 9 (R3),<ul><li>Personal Shopping Assistant</li></ul>,2009-08-27,2009-09-09,12.0,Planning
+Iteration 10 (R3),<ul><li>Custom Ordering</li></ul>,2009-09-10,2009-09-23,12.0,Planning
+Iteration 4 (R1),<ul><li>Hardening for ML</li></ul>,2009-06-18,2009-07-01,10.0,Accepted
+Iteration 3 (R1),<ul><li>Be able to Ship an Order</li><li>Provide Credit Card support</li></ul>,2009-06-04,2009-06-17,10.0,Accepted
+Iteration 2 (R1),<ul><li>Shop for Items</li><li>Start Shipping functionality</li><li>Purchase your Items - Part 1</li></ul>,2009-05-21,2009-06-03,10.0,Accepted
+Iteration 1 (R1),<ul><li>Be able to Log-in and Log-off</li><li>Security implemented</li></ul>,2009-05-07,2009-05-20,10.0,Accepted
+Iteration 5 (R2),<ul><li>Internationalize</li></ul>,2009-07-02,2009-07-15,12.0,Accepted
+Iteration 8 (R3),<ul><li>Similar Products</li></ul>,2009-08-13,2009-08-26,12.0,Planning
+Iteration 7 (R2),<ul><li>Hardening for OM</li></ul>,2009-07-30,2009-08-12,12.0,Planning
+Iteration 6 (R2),<ul><li>Be able to complete the purchase</li><li>Be able to search for an item</li><li>Spikes</li></ul>,2009-07-16,2009-07-29,12.0,Committed
+Iteration 9 (R3),<ul><li>Personal Shopping Assistant</li></ul>,2009-08-27,2009-09-09,12.0,Planning
+Iteration 10 (R3),<ul><li>Custom Ordering</li></ul>,2009-09-10,2009-09-23,12.0,Planning
+Iteration 3 (R1),<ul><li>Be able to Ship an Order</li><li>Provide Credit Card support</li></ul>,2009-06-04,2009-06-17,10.0,Accepted
+Iteration 10 (R3),<ul><li>Custom Ordering</li></ul>,2009-09-10,2009-09-23,12.0,Planning
+Iteration 5 (R2),<ul><li>Internationalize</li></ul>,2009-07-02,2009-07-15,12.0,Accepted
+Iteration 6 (R2),<ul><li>Be able to complete the purchase</li><li>Be able to search for an item</li><li>Spikes</li></ul>,2009-07-16,2009-07-29,12.0,Committed
+Iteration 9 (R3),<ul><li>Personal Shopping Assistant</li></ul>,2009-08-27,2009-09-09,12.0,Planning
+Iteration 8 (R3),<ul><li>Similar Products</li></ul>,2009-08-13,2009-08-26,12.0,Planning
+Iteration 7 (R2),<ul><li>Hardening for OM</li></ul>,2009-07-30,2009-08-12,12.0,Planning
+Iteration 2 (R1),<ul><li>Shop for Items</li><li>Start Shipping functionality</li><li>Purchase your Items - Part 1</li></ul>,2009-05-21,2009-06-03,10.0,Accepted
+Iteration 1 (R1),<ul><li>Be able to Log-in and Log-off</li><li>Security implemented</li></ul>,2009-05-07,2009-05-20,10.0,Accepted
+Iteration 4 (R1),<ul><li>Hardening for ML</li></ul>,2009-06-18,2009-07-01,10.0,Accepted

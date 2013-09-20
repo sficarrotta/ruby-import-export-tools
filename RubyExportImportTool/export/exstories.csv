@@ -1,0 +1,7 @@
+Type,Name,Parent,Owner,Status,Blocked,Release,Iteration,PlanEstimate,TaskEstimate,TaskToDo,TaskActuals,Rank,Package,Description,Notes,RegressionResult,TesterName
+Story,Epic: User Management,"",paul@acme.com,In-Progress,false,"","",21.0,,,,4375.002,Account,"All users should be able to easily login, logout, and safely store their relevant information with us","","",""
+Story,Epic: Login/Logoff,Epic: User Management,paul@acme.com,Accepted,false,"","",7.0,,,,4062.503,Account,"In order to provide basic system access, all users should be able to login/logout of the system","","",""
+Story,Log-in to Secured Website,Epic: Login/Logoff,paul@acme.com,Accepted,false,"Release 1 (1,2,3,4)",Iteration 1 (R1),3.0,,,,10.0,Account,"As a customer, I would like to be able to login to the shopping cart knowing that my personal information is private and secure","","",""
+Task,Doc,,wendy@acme.com,Completed,false,,,,2.0,0.0,2.0,,,,,,
+Task,Code,,dave@acme.com,Completed,false,,,,7.0,0.0,8.0,,,,,,
+Task,Create Automated Tests,,tara@acme.com,Completed,false,,,,3.0,0.0,3.5,,,,,,

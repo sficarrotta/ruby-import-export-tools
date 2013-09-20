@@ -1,0 +1,30 @@
+Install documentation for Version 0.5 of the Rally Importer/Exporter
+
+For Windows
+
+Step 1
+Install the Ruby Runtime Environment
+http://rubyforge.org/projects/rubyinstaller/
+
+Currently, the latest version is 1.8.5-21 which can be found here
+http://rubyforge.org/frs/download.php/12751/ruby185-21.exe
+
+
+Step 2
+Install the Rally REST API Gem (Library)
+At a command line prompt type
+"gem install rally_rest_api"
+
+
+Step 3
+Install the FasterCSV Gem (Library)
+"gem install fastercsv"
+
+
+Step 4
+Install the Builder Gem (Library)
+"gem install builder"
+
+For Unix
+
+Instructions in next version of the release
